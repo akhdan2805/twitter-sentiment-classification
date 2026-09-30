@@ -146,8 +146,8 @@ The final **LinearSVC** model was trained using the combined training and develo
 The final LinearSVC model achieved a **Negative Recall of 98.50%**, indicating that most tweets with actual negative sentiment were correctly identified.
 
 ## Technologies
-**Programming:** Python  
-**Data Processing:** Pandas, NumPy  
-**Machine Learning:** Scikit-learn  
-**Visualization:** Matplotlib, Seaborn, WordCloud  
-**Environment:** Jupyter Notebook
+- **Programming:** Python  
+- **Data Processing:** Pandas, NumPy  
+- **Machine Learning:** Scikit-learn  
+- **Visualization:** Matplotlib, Seaborn, WordCloud  
+- **Environment:** Jupyter Notebook
